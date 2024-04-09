@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.88 73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m10.88,36.5C10.88,17.45,26.33,2,45.38,2s34.5,15.45,34.5,34.5-15.45,34.5-34.5,34.5"/>
+  <polygon points="11.3 51 22.59 31.43 0 31.43 11.3 51"/>
+</svg>

@@ -1,0 +1,13 @@
+debug/createfilewindowui.o
+debug/createfolderwindowui.o
+debug/infowindowui.o
+debug/main.o
+debug/FE.o
+debug/preferencesdialog.o
+debug/renamedialogui.o
+debug/moc_FE.o
+debug/moc_createfilewindowui.o
+debug/moc_createfolderwindowui.o
+debug/moc_infowindowui.o
+debug/moc_preferencesdialog.o
+debug/moc_renamedialogui.o
